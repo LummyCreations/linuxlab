@@ -1,3 +1,4 @@
 Hello World
 
-This is a test case for my Linux Lab class
+This is a ceaser cipher code written in python
+It takes a text input, a shift key and encrypts the message.
